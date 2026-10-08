@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.DS_Store
+# signing material and build outputs never go in git
+*.mobileprovision
+*.p12
+*.app/
+*.ipa
+DerivedData/
+dd/
+build/
+*.xcodeproj/
